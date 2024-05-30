@@ -17,6 +17,13 @@
 
 ### Portfolio Highlights
 
+#### Experience 
+- **2023 - Present: QA Lead at GTech MuLearn**
+  - **Responsibilities:**
+    - Led a team of QA Testers to deliver high-quality deliverables and improved the team efficiency and productivity.
+    - Demonstrated skills in QA, Project Management, Team Management, and Automation Tools.
+
+      
 #### Leadership and Influence:
 
 - Currently I lead a QA Testing team of 3 members.
@@ -33,27 +40,17 @@
 - In the immediate term, Develop Quality QA Testers and uptodate with my knowledge.
 - In the long term, Develop my skills and create new projects that help full to public and companies.
 
-#### Thoughts on Kerala's Tech Ecosystem:
-
-- Create more oppourtunities to freshers, ensure the availability of open source projects.
-- Collab with academic-student-companies
-
 
 #### History of Community Engagement:
 
 - Active participant in the [Gtech Mulearn](https://discord.gg/tech-community) where I help newcomers and share my knowledge.
 - Active participant in the SAEINDIA , ASME, and other mechanical communities.
 
-#### Highly Visible Technical Content:
-
-- Share my experinces in Linkedln
-
 #### Highly Used Software Tools:
 
-- Automation Tetsing tools - Selenium, Performance and Load Test - Apache Jmeter 
-#### Competitive Website Profiles:
+- Automation Tetsing tools - Selenium, Performance and Load Test - Apache Jmeter
 
-- Active member on Coding Ninjas , Freecodecamp.
+
 
 - >> check out [ansanjohny@mulearn.md](./profiles/ansanjohny@mulearn.md)
 
